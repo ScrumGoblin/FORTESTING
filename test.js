@@ -1,1 +1,0 @@
-const hello = "THIS IS A TEST"
